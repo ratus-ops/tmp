@@ -1,0 +1,27 @@
+{
+    "license": "",
+    "token": "",
+    "chatId": "",
+    "delais": 2000,
+    "otp": true,
+    "montant": "14.90",
+    "isp": [
+        "ProXad network / Free SAS",
+        "orange s.a.",
+        "sfr",
+        "bouygues telecom",
+        "free mobile",
+        "france telecom",
+        "ovh",
+        "numericable",
+        "srr",
+        "reunicable sas",
+        "telco oi",
+        "gva togo",
+        "idom technologies sas",
+        "parabole",
+        "france telecom orange",
+        "outremer telecom"
+    ],
+    "banned": []
+}
